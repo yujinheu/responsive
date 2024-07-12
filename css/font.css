@@ -1,0 +1,27 @@
+/* _________ Font CDN */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+/* font-family: 'Noto Sans KR', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+/* font-family: "Noto Sans", sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+/* font-family: "Nanum Myeongjo", serif; */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+/* font-family: "Raleway", sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap');
+/* font-family: "Exo", sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/* font-family: "Bebas Neue", sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+/* font-family: "Jua", sans-serif; */
+
+/* _________ Icon Font CDN */
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200');
+ /* font-family: 'Material Symbols Outlined'; */ 
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css');
+/* font-family: fontawesome; */
+@import url('http://cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css');
+/* font-family: xeicon;  */
+
+
+
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@2.0/nanumsquare.css);

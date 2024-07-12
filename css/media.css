@@ -1,0 +1,54 @@
+@media screen and (min-width:768px){ /* 태블릿모드 */
+
+}
+
+@media screen and (min-width:1200px){ /* 데스크탑모드 */
+  html{font-size: 62.5%;}
+  .rel{width:1200px;max-width: 144rem;}
+
+  .header_left{
+    position:absolute;
+    top:10px;
+    right:30px;
+  }
+  .main-visual {background-color: aqua;}
+  #section0 .rel{margin:auto; padding:50px 0;}
+  #section0 .rel ul{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+  }
+  #section2 .rel{margin:auto; padding:50px 0;}
+  #section2 .content{
+    width: 1000px;height: 150px;
+    /* border: 1px solid #000; */
+  }
+  #section2 .content ul{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+  }
+  #section2 .content ul li{
+  width:300px;
+  height:60px;
+  line-height: 13px;
+  font-size:1.8rem;
+  border-radius: 10px;
+}
+#section2 .content ul li:hover{
+  background-color: rgba(255,255,255,0.5);
+}
+#section2 .content li:nth-child(1),
+#section2 .content li:nth-child(2){
+  margin-top: 3rem;
+}
+#section2 .content ul li:nth-child(1):after{
+  width:45px;
+  height:45px;
+  top:5px;
+  right:5px;
+  background: url(../image/icon1.png) no-repeat center/cover;
+}
+
+
+}
